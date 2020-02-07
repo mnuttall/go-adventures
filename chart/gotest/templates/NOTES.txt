@@ -1,1 +1,0 @@
-Basic Go app with two-step build
